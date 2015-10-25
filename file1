@@ -24,3 +24,6 @@ feature_branch_2 2
 
 // 3rd feature_branch_2 commit
 feature_branch_2 3
+
+// 1st release_branch commit
+release_branch 1
