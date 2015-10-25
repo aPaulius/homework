@@ -36,3 +36,9 @@ release_branch 3
 
 // 4th release_branch commit
 release_branch 4
+
+// 4th feature_branch_2 commit
+feature_branch_2 4
+
+// 5th feature_branch_2 commit
+feature_branch_2 5
