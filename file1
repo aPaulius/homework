@@ -15,3 +15,12 @@ develop 4
 
 // 1st hotfixes commit
 hotfixes 1
+
+// 1st feature_branch_2 commit
+feature_branch_2 1
+
+// 2nd feature_branch_2 commit
+feature_branch_2 2
+
+// 3rd feature_branch_2 commit
+feature_branch_2 3
