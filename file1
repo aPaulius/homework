@@ -11,4 +11,7 @@ develop 2
 develop 3
 
 // 1st feature_branch_1 commit
-feature_branch_1
+feature_branch_1 1
+
+// 2nd feature_branch_1 commit
+feature_branch_1 2
