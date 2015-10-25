@@ -30,3 +30,6 @@ release_branch 1
 
 // 2nd release_branch commit
 release_branch 2
+
+// 3rd release_branch commit
+release_branch 3
